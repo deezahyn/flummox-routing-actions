@@ -1,5 +1,5 @@
 {
-  "name": "flummox-react-router",
+  "name": "flummox-routing-actions",
   "version": "0.1.0",
   "description": "An example how to integrate flummox (and possibly other flux frameworks) with react-router for action based navigation",
   "main": "src/index.js",
